@@ -12,11 +12,11 @@ I chose FinTech because it fits my skill set.
 
 # H1 Header
 
-![halo-thing](images/halo_thing.jpg)
+![halo-thing](\images\halo_thing.jpg)
 
 ## README Description
 ### Table of Contents
-(code)
-(data)
-(references)
-(images)
+[link](\code)
+[link](\data)
+[link](\references)
+[link](\images)
